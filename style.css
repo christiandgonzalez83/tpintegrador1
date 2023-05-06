@@ -1,0 +1,26 @@
+.nav {
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+#BsasOctubre{
+    border-style: double;
+}
+.container-fluid {
+    margin: 0px;
+    padding: 0px;
+    /* border-style: double; */
+}
+
+.carousel-caption{
+    /* align-items: right; */
+    /* text-align-last: right; */
+    text-align: right;
+    /* align-content: flex-end;     */
+}
+
+footer {
+    background-color: rgb(66, 77, 97);
+
+}
+
